@@ -19,7 +19,7 @@ Book Browsing & Ordering:
 
 Users can view available books
 
-Place orders or sell books
+Place orders, Edit profile
 
 Local Database:
 

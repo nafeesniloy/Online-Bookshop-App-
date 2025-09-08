@@ -35,4 +35,4 @@ Frontend (Android App): Kotlin, XML (Layouts)
 
 Database: SQLite (local database)
 
-Architecture: MVVM or simple Kotlin classes with SQLite helper# Online-Bookshop-App-
+Architecture: MVVM or simple Kotlin classes with SQLite helper
